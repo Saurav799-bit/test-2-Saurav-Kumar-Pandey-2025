@@ -1,0 +1,85 @@
+cd Downloads/test-2-Saurav-Kumar-Pandey-2025/
+  923  git clone https://github.com/vivekc29-art/test-2.git
+  924  git status
+  925  touch temp.txt
+  926  git add .
+  927  cd test-2/
+  928  touch temp.txt
+  929  git ad.
+  930  git add .
+  931  git status
+  932  git commit -m "temp file to check push is working or not "
+  933  git push
+  934  git push -f
+  935  cd .
+  936  cd ..
+  937  git status
+  938  clear
+  939  git status
+  940  git push
+  941  clean
+  942  git clean
+  943  git status
+  944  cd Downloads/test-2-Saurav-Kumar-Pandey-2025/
+  945  git status
+  946  git add .
+  947  git status
+  948  cd ..
+  949  ls
+  950  git clone https://github.com/Saurav799-bit/test-2-Saurav-Kumar-Pandey-2025.git
+  951  cd test-2-Saurav-Kumar-Pandey-2025/
+  952  git clone https://github.com/vivekc29-art/test-2.git
+  953  ls
+  954  git status
+  955  git add .
+  956  cler
+  957  git status
+  958  git commit -m "test 2"
+  959  git push
+  960  vim makefile
+  961  vim grade.c
+  962  cat grade.c
+  963  vim makefile
+  964  gcc main.c grade.c menu.c student.c  -o main
+  965  ls
+  966  history
+  967  touch command_history.txt
+  968  vim command_history.txt 
+  969  ls
+  970  gcc main.c grade.c menu.c student.c  -o main
+  971  vim menu.c
+  972  gcc main.c grade.c menu.c student.c -o main
+  973  vim menu.c
+  974  gcc main.c grade.c menu.c student.c -o main
+  975  vim makefile
+  976  rm main
+  977  gcc main.c grade.c menu.c student.c utils.c -o main
+  978  vim makefile
+  979  make
+  980  vim makefile
+  981  make
+  982  make clean
+  983  make
+  984  vim make
+  985  vim makefile
+  986  mke
+  987  make
+  988  history
+  989  vim command_history.txt
+  990  make
+  991  ls
+  992  make
+  993  vim makefile
+  994  vim Makefile
+  995  make
+  996  gcc main.c grade.c menu.c student.c utils.c -o main
+  997  git pull
+  998  git pull head 1
+  999  make
+ 1000  gcc main.c grade.c menu.c student.c utils.c -o main
+ 1001  make
+ 1002  vim makefile
+ 1003  make
+ 1004  hitory
+ 1005  history
+
